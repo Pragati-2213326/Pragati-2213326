@@ -52,7 +52,9 @@ MERN • Backend Engineering • DSA • AI Systems
 ## 🌿 Plant E-Commerce Platform (MERN)
 
 🛒 Responsive UI with shopping cart & filters
+
 🔐 Secure authentication & checkout
+
 📊 Admin dashboard for inventory & orders
 
 ---
@@ -60,7 +62,9 @@ MERN • Backend Engineering • DSA • AI Systems
 ## 💰 Smart Budget Manager
 
 📈 Expense tracking with interactive dashboards
+
 🔑 User authentication & financial analytics
+
 📊 Data visualization with Matplotlib
 
 ---
@@ -68,7 +72,9 @@ MERN • Backend Engineering • DSA • AI Systems
 ## ⚙️ Air Pressure Failure Detection
 
 🤖 Machine learning predictive maintenance
+
 📉 Sensor data classification models
+
 ⚡ Real-time anomaly detection
 
 ---
