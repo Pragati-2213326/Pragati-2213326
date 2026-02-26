@@ -123,16 +123,6 @@ MERN • Backend Engineering • DSA • AI Systems
 
 ---
 
-## 💰 Smart Budget Manager
-
-📈 Expense tracking with interactive dashboards
-
-🔑 User authentication & financial analytics
-
-📊 Data visualization with Matplotlib
-
----
-
 ## ⚙️ Air Pressure Failure Detection
 
 🤖 Machine learning predictive maintenance
