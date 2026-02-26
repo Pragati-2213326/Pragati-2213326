@@ -121,7 +121,6 @@ MERN • Backend Engineering • DSA • AI Systems
 
 📊 Admin dashboard for inventory & orders
 
----
 
 ## ⚙️ Air Pressure Failure Detection
 
