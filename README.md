@@ -4,20 +4,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:ff00cc&height=220&section=header&text=Pragati%20Verma&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20ML%20Enthusiast&descAlignY=60"/>
 </p>
 
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&color=00F5FF&center=true&vCenter=true&width=800&lines=Welcome+To+My+Digital+World+🌌;Full+Stack+Developer+💻;Machine+Learning+Engineer+🤖;I+Build+Cool+Things+With+Code+✨" />
 </p>
 
+
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
-</p>
-
----
-
-<!-- ================= VISITOR ================= -->
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pragati-2213326&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
 </p>
 
 ---
@@ -114,6 +108,11 @@ MERN • Backend Engineering • DSA • AI Systems
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pragati-2213326&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+</p>
+
 
 
 # 🌐 Connect With Me
