@@ -1,14 +1,12 @@
 <!-- ================= HEADER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:ff00cc&height=220&section=header&text=Pragati%20Verma&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20ML%20Enthusiast&descAlignY=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:ff00cc&height=240&section=header&text=Pragati%20Verma&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Machine%20Learning%20Engineer&descAlignY=60"/>
 </p>
-
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&color=00F5FF&center=true&vCenter=true&width=800&lines=Welcome+To+My+Digital+World+🌌;Full+Stack+Developer+💻;Machine+Learning+Engineer+🤖;I+Build+Cool+Things+With+Code+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&color=00F5FF&center=true&vCenter=true&width=850&lines=Welcome+To+My+Legend+Profile+👑;Full+Stack+Developer+💻;Machine+Learning+Engineer+🤖;I+Turn+Ideas+Into+Reality+🚀" />
 </p>
-
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
@@ -16,137 +14,52 @@
 
 ---
 
-# 🌸 About Me
-
-<div align="center">
-
-🎓 Computer Science Engineering Student
-
-🚀 Passionate about **Full Stack Development** & **Machine Learning**
-
-💡 Love solving problems with scalable systems & clean architecture
-
-⚡ Currently Learning:
-MERN • Backend Engineering • DSA • AI Systems
-
-
-☕ Fun Fact: Music + Coffee = Perfect Debugging Mode 🎧
-
-</div>
-
----
-
-x# 🛠️ Tech Arsenal ⚡
-
-<div align="center">
-
-<!-- ================= LANGUAGES ================= -->
-
-### 💻 Programming Languages
-
-<img src="https://skillicons.dev/icons?i=js,python,cpp,c,java,sql" />
-
-<br/><br/>
-
-<!-- ================= FRONTEND ================= -->
-
-### 🌐 Frontend Development
-
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,redux" />
-
-<br/><br/>
-
-<!-- ================= BACKEND ================= -->
-
-### ⚙️ Backend Development
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,jsonwebtoken" />
-
-<br/><br/>
-
-<!-- ================= DATABASE ================= -->
-
-### 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
-
-<br/><br/>
-
-<!-- ================= MACHINE LEARNING ================= -->
-
-### 🤖 Machine Learning & Data Science
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="50"/>
-
-<br/><br/>
-
-<!-- ================= TOOLS ================= -->
-
-### 🧰 Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,figma,vercel" />
-
-</div>
-
----
-
-<!-- ================= EXTRA STYLE LINE ================= -->
+<!-- ================= VISITOR ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+  <img src="https://komarev.com/ghpvc/?username=Pragati-2213326&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
 </p>
 
+---
+
+# 🧠 Interactive Developer Terminal
+
+```bash
+> Initializing Pragati.exe ...
+
+✔ Name: Pragati Verma
+✔ Role: Full Stack Developer | ML Enthusiast
+✔ Education: B.Tech CSE (2022–2026)
+
+> Loading Skills ...
+
+Frontend   ███████████████░░ 75%
+Backend    █████████████░░░░ 70%
+ML/AI      █████████████░░░░ 70%
+DSA        ███████████████░░ 75%
+
+> Status: Ready to build amazing things 🚀
+```
+
+---
+
+# ⚡ Tech Universe
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,python,cpp,c,java,sql,react,nodejs,express,mongodb,mysql,git,github,vscode,postman,linux" />
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-
-
-## 🌿 Plant E-Commerce Platform (MERN)
-
-🛒 Responsive UI with shopping cart & filters
-
-🔐 Secure authentication & checkout
-
-📊 Admin dashboard for inventory & orders
+🌿 **Plant E-Commerce Platform (MERN)**
+💰 **Smart Budget Manager (Python + Visualization)**
+⚙️ **Air Pressure Failure Detection (Machine Learning)**
 
 ---
 
-## 💰 Smart Budget Manager
-
-📈 Expense tracking with interactive dashboards
-
-🔑 User authentication & financial analytics
-
-📊 Data visualization with Matplotlib
-
----
-
-## ⚙️ Air Pressure Failure Detection
-
-🤖 Machine learning predictive maintenance
-
-📉 Sensor data classification models
-
-⚡ Real-time anomaly detection
-
----
-
-# 🏆 Achievements
-
-🏅 200+ DSA Problems Solved
-
-🏅 85–90% ML Model Accuracy
-
----
-
+# 📊 3D GitHub Analytics
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pragati-2213326&theme=tokyonight"/>
@@ -159,22 +72,36 @@ x# 🛠️ Tech Arsenal ⚡
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pragati-2213326&theme=tokyo-night&hide_border=true"/>
 </p>
 
+---
+
+# 🐍 Snake Contribution Animation
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
+---
+
+# 🎮 Developer Mode Animation
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pragati-2213326&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+  <img src="https://raw.githubusercontent.com/DharmendraGupta2024/DharmendraGupta2024/main/Mario_Gameplay.gif" width="900"/>
 </p>
 
+---
 
+# 🏆 Achievements
+
+🏅 200+ DSA Problems Solved
+🏅 85–90% ML Model Accuracy
+
+---
 
 # 🌐 Connect With Me
 
@@ -197,6 +124,5 @@ x# 🛠️ Tech Arsenal ⚡
 </p>
 
 <p align="center">
-  ✨ Code • Create • Innovate • Repeat ✨
+  👑 Legend Never Stops Building 👑
 </p>
-
