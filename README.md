@@ -107,15 +107,6 @@ MERN • Backend Engineering • DSA • AI Systems
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
----
-
-# 🎮 Mario Game Animation (Like Pro Profiles)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DharmendraGupta2024/DharmendraGupta2024/main/Mario_Gameplay.gif" width="900"/>
-</p>
-
----
 
 # 🌐 Connect With Me
 
