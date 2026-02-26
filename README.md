@@ -35,8 +35,14 @@ MERN • Backend Engineering • DSA • AI Systems
 </div>
 
 ---
+<!-- ================= EXTRA STYLE LINE ================= -->
 
-x# 🛠️ Tech Arsenal ⚡
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+</p>
+
+
+🛠️ Tech Arsenal ⚡
 
 <div align="center">
 
@@ -46,7 +52,7 @@ x# 🛠️ Tech Arsenal ⚡
 
 <img src="https://skillicons.dev/icons?i=js,python,cpp,c,java,sql" />
 
-<br/><br/>
+<br/>
 
 <!-- ================= FRONTEND ================= -->
 
@@ -54,7 +60,7 @@ x# 🛠️ Tech Arsenal ⚡
 
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,redux" />
 
-<br/><br/>
+<br/>
 
 <!-- ================= BACKEND ================= -->
 
@@ -62,7 +68,7 @@ x# 🛠️ Tech Arsenal ⚡
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,jsonwebtoken" />
 
-<br/><br/>
+<br/>
 
 <!-- ================= DATABASE ================= -->
 
@@ -70,7 +76,7 @@ x# 🛠️ Tech Arsenal ⚡
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
 
-<br/><br/>
+<br/>
 
 <!-- ================= MACHINE LEARNING ================= -->
 
@@ -84,7 +90,7 @@ x# 🛠️ Tech Arsenal ⚡
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="50"/>
 
-<br/><br/>
+<br/>
 
 <!-- ================= TOOLS ================= -->
 
@@ -93,8 +99,6 @@ x# 🛠️ Tech Arsenal ⚡
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,figma,vercel" />
 
 </div>
-
----
 
 <!-- ================= EXTRA STYLE LINE ================= -->
 
