@@ -52,6 +52,8 @@ MERN • Backend Engineering • DSA • AI Systems
 
 # 🚀 Featured Projects
 
+
+
 ## 🌿 Plant E-Commerce Platform (MERN)
 
 🛒 Responsive UI with shopping cart & filters
@@ -107,8 +109,6 @@ MERN • Backend Engineering • DSA • AI Systems
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pragati-2213326&theme=tokyo-night&hide_border=true"/>
 </p>
-
----
 
 
 <p align="center">
