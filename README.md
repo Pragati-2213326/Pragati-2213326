@@ -24,21 +24,6 @@
 - Backend Systems
 - Problem Solving & Algorithms
 
----
-
-## 🎓 Education
-
-📍 **B.Tech — Computer Science & Engineering**  
-PSIT, Kanpur (2022 – 2026)  
-Percentage: **69.4%**
-
-📍 **Intermediate — Divine Public School, Ambedkar Nagar**  
-Score: **75.08%**
-
-📍 **High School — Takshila, Ambedkar Nagar**  
-Score: **76.3%**
-
----
 
 ## 🛠️ Technical Skills
 
@@ -65,29 +50,7 @@ Communication • Teamwork • Time Management
 
 ---
 
-## 🚀 Projects
-
-### 🌿 E-Commerce Website for Plants (MERN Stack)
-
-- Developed a full-stack e-commerce platform for plants & gardening accessories
-- Implemented product filtering, cart system, and secure checkout
-- Created admin dashboard for inventory and order management
-
----
-
-### 💰 Smart Budget Manager (Python + Data Visualization)
-
-- Built expense and investment tracking system with visual dashboards
-- Implemented authentication and category-based expense monitoring
-- Generated financial insights using Matplotlib and external APIs
-
----
-
-### ⚙️ Air Pressure System Failure Detection (Machine Learning)
-
-- Developed ML model to predict system failures using sensor data
-- Performed preprocessing and anomaly detection
-- Achieved high accuracy with feature engineering & tuning
+engineering & tuning
 
 ---
 
@@ -102,7 +65,7 @@ Communication • Teamwork • Time Management
 
 ## 🏆 Achievements
 
-🏅 Solved **300+ DSA problems** on LeetCode  
+🏅 Solved **200+ DSA problems** on LeetCode  
 🏅 Achieved **85–90% accuracy** across Machine Learning projects
 
 ---
@@ -118,9 +81,8 @@ Communication • Teamwork • Time Management
 
 ## 🌐 Connect With Me
 
-📧 Email: pragativerma2213326@gmail.com *(update if needed)*  
+📧 Email: pragativerma1005@gmail.com 
 🔗 LinkedIn: https://www.linkedin.com/in/pragativerma2213326  
-💻 GitHub: https://github.com/Pragati-2213326  
 
 ---
 
