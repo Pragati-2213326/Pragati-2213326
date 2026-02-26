@@ -1,16 +1,129 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Pragati Verma</h1>
+<h3 align="center">🚀 Full Stack Developer | Machine Learning Enthusiast | CSE Undergraduate</h3>
 
-<!--
-**Pragati-2213326/Pragati-2213326** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/Pragati-2213326">
+    <img src="https://img.shields.io/github/followers/Pragati-2213326?label=Followers&style=social" />
+  </a>
+  <a href="https://www.linkedin.com/in/pragativerma2213326">
+    <img src="https://img.shields.io/badge/LinkedIn-Pragati%20Verma-blue?style=flat&logo=linkedin" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 Professional Summary
+
+🎓 Aspiring Computer Science and Engineering undergraduate with strong technical expertise in **Full-Stack Development** and **Machine Learning**.
+
+💡 Passionate about building scalable applications, solving real-world problems, and contributing to impactful technology solutions.
+
+✨ Interested in:
+- Software Development
+- AI & Machine Learning
+- Backend Systems
+- Problem Solving & Algorithms
+
+---
+
+## 🎓 Education
+
+📍 **B.Tech — Computer Science & Engineering**  
+PSIT, Kanpur (2022 – 2026)  
+Percentage: **69.4%**
+
+📍 **Intermediate — Divine Public School, Ambedkar Nagar**  
+Score: **75.08%**
+
+📍 **High School — Takshila, Ambedkar Nagar**  
+Score: **76.3%**
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming Languages
+JavaScript • Python • C++ • C • SQL
+
+### 🌐 Full Stack Development
+HTML5 • CSS3 • JavaScript (ES6+) • React.js  
+Node.js • Express.js • REST APIs • JWT Authentication
+
+### 🗄️ Databases
+MongoDB • MySQL • NoSQL
+
+### ⚙️ Tools & Platforms
+Git • GitHub • VS Code • Postman • Jupyter Notebook
+
+### 📚 Coursework
+Data Structures & Algorithms  
+Operating Systems  
+Object-Oriented Programming
+
+### 🤝 Soft Skills
+Communication • Teamwork • Time Management
+
+---
+
+## 🚀 Projects
+
+### 🌿 E-Commerce Website for Plants (MERN Stack)
+
+- Developed a full-stack e-commerce platform for plants & gardening accessories
+- Implemented product filtering, cart system, and secure checkout
+- Created admin dashboard for inventory and order management
+
+---
+
+### 💰 Smart Budget Manager (Python + Data Visualization)
+
+- Built expense and investment tracking system with visual dashboards
+- Implemented authentication and category-based expense monitoring
+- Generated financial insights using Matplotlib and external APIs
+
+---
+
+### ⚙️ Air Pressure System Failure Detection (Machine Learning)
+
+- Developed ML model to predict system failures using sensor data
+- Performed preprocessing and anomaly detection
+- Achieved high accuracy with feature engineering & tuning
+
+---
+
+## 📜 Certifications
+
+- Web Development Training — Acmegrade & Mood Indigo (IIT Bombay)
+- Web Development Internship — Rinex
+- Infosys Springboard — Programming, HTML, CSS, JavaScript, Bootstrap
+- Robotics Workshop — IEEE PELS SBC, HBTU Kanpur
+
+---
+
+## 🏆 Achievements
+
+🏅 Solved **300+ DSA problems** on LeetCode  
+🏅 Achieved **85–90% accuracy** across Machine Learning projects
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pragati-2213326&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=Pragati-2213326&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+📧 Email: pragativerma2213326@gmail.com *(update if needed)*  
+🔗 LinkedIn: https://www.linkedin.com/in/pragativerma2213326  
+💻 GitHub: https://github.com/Pragati-2213326  
+
+---
+
+<p align="center">
+  ⭐ “Code. Learn. Build. Repeat.” ⭐
+</p>
