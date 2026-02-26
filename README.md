@@ -90,7 +90,6 @@ MERN • Backend Engineering • DSA • AI Systems
 
 ---
 
-# 📊 3D GitHub Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pragati-2213326&theme=tokyonight"/>
@@ -111,7 +110,6 @@ MERN • Backend Engineering • DSA • AI Systems
 
 ---
 
-# 🐍 Snake Contribution Animation
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
