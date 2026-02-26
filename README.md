@@ -27,11 +27,14 @@
 <div align="center">
 
 🎓 Computer Science Engineering Student
+
 🚀 Passionate about **Full Stack Development** & **Machine Learning**
+
 💡 Love solving problems with scalable systems & clean architecture
 
 ⚡ Currently Learning:
 MERN • Backend Engineering • DSA • AI Systems
+
 
 ☕ Fun Fact: Music + Coffee = Perfect Debugging Mode 🎧
 
