@@ -36,11 +36,72 @@ MERN • Backend Engineering • DSA • AI Systems
 
 ---
 
-# 🛠️ Tech Arsenal ⚡
+x# 🛠️ Tech Arsenal ⚡
+
+<div align="center">
+
+<!-- ================= LANGUAGES ================= -->
+
+### 💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=js,python,cpp,c,java,sql" />
+
+<br/><br/>
+
+<!-- ================= FRONTEND ================= -->
+
+### 🌐 Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,redux" />
+
+<br/><br/>
+
+<!-- ================= BACKEND ================= -->
+
+### ⚙️ Backend Development
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,jsonwebtoken" />
+
+<br/><br/>
+
+<!-- ================= DATABASE ================= -->
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
+
+<br/><br/>
+
+<!-- ================= MACHINE LEARNING ================= -->
+
+### 🤖 Machine Learning & Data Science
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="50"/>
+
+<br/><br/>
+
+<!-- ================= TOOLS ================= -->
+
+### 🧰 Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,figma,vercel" />
+
+</div>
+
+---
+
+<!-- ================= EXTRA STYLE LINE ================= -->
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,cpp,c,sql,react,nodejs,express,mongodb,mysql,git,github,vscode,postman" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 </p>
+
 
 ---
 
